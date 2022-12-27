@@ -1,0 +1,38 @@
+%container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 1200px;
+  }
+  
+%list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-weight: 500;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+  }
+
+%section {
+    padding-top: 94px;
+    padding-bottom: 94px;
+  }
+
+  %list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-weight: 500;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+  }
+
+  %section-title {
+    margin-bottom: 50px;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+  }
+

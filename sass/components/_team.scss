@@ -1,9 +1,9 @@
 .team {
-    @extend %section;
+    // @extend %section;
     background-color: $greyBackgroundColor;  
-&__container {
-        @extend %container;
-}
+// &__container {
+        // @extend %container;
+// }
 }
 
 .section-title {

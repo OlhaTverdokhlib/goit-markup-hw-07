@@ -1,8 +1,8 @@
 .activity {
-    @extend %section;
+    // @extend %section;
     padding-top: 0;
-    padding-bottom: 94px;
-    @extend %container;
+    // padding-bottom: 94px;
+    // @extend %container;
 }
 
 .section-title {
@@ -37,4 +37,7 @@
         margin-left: 0
     }
 
+}
+.no-top-padding {
+    padding-top: 0;
 }

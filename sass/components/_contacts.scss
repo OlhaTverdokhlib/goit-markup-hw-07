@@ -1,6 +1,6 @@
 
 .contacts {
-    @extend %container;
+    // @extend %container;
     @extend %list;
     display: flex;
     justify-content: flex-end;

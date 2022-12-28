@@ -1,11 +1,11 @@
 .page-footer {
-    @extend %section;
+    // @extend %section;
     padding-top: 60px;
     padding-bottom: 60px;
     background-color: $backgroundHeroColor;
 }
 .box {
-    @extend %container;
+    // @extend %container;
     display: flex;
 }
 .logo {
